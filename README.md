@@ -49,4 +49,3 @@ This project analyzes YouTube trending videos from India and the United States t
 
 ## Author
 **Lavanya Vanga**  
-Aspiring Data Analyst | Portfolio Project  
