@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YouTube Trending Video Analysis
 
 ## Overview
@@ -51,7 +50,3 @@ This project analyzes YouTube trending videos from India and the United States t
 ## Author
 **Lavanya Vanga**  
 Aspiring Data Analyst | Portfolio Project  
-=======
-# YouTube-Trending-Video-Analysis
-"Analyze YouTube trending videos from India and US to uncover virality patterns"
->>>>>>> 0a160645004097dec593a533f5c189d9f2a133eb
